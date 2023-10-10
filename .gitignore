@@ -19,3 +19,11 @@
 
 # Go workspace file
 go.work
+/.idea/.gitignore
+/generics/.idea/.gitignore
+/generics/.idea/generics.iml
+/.idea/go-expert.iml
+/.idea/modules.xml
+/generics/.idea/modules.xml
+/.idea/vcs.xml
+/generics/.idea/vcs.xml
