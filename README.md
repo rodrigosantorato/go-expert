@@ -1,2 +1,2 @@
 # go-expert
-Regarding studies related to the Go Expert couse by FullCycle
+Regarding studies related to the Go Expert course by FullCycle
